@@ -1,7 +1,9 @@
-.wrapper
-{ background: rgb(230, 158, 158);}
+body
+{  background: rgb(201, 160, 131); }
+
 h1
-{ text-align: center;background: rgb(212, 139, 86);} 
+{ text-align: center;
+    background: rgb(212, 139, 86);} 
 ul
 {text-align: center;}
 li
@@ -12,4 +14,4 @@ li
 background: darkcyan;
 width: 100px;
 height: 100px;
-border:1px solid white;}
+border:2px solid white;}
